@@ -7,7 +7,7 @@ if (process.argv.length < 3) {
     console.log('Please pass the username as an argument');
 }
 else {
-    let username = process.argv[2];
+    let useNname = process.argv[2];
 }
 
 let userService= new GithubApiService();
