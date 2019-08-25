@@ -1,0 +1,26 @@
+{
+  "name": "github-report-with-typescript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "tsc && node out/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Abhishek1009/github-report-with-typescript.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Abhishek1009/github-report-with-typescript/issues"
+  },
+  "homepage": "https://github.com/Abhishek1009/github-report-with-typescript#readme",
+  "dependencies": {
+    "@types/lodash": "^4.14.137",
+    "@types/request": "^2.48.2",
+    "lodash": "^4.17.15",
+    "request": "^2.88.0"
+  }
+}
